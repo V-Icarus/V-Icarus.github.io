@@ -1,39 +1,4 @@
 <!DOCTYPE html>
-      </div>
-    </div>
-  </header>
-
-  <section class="hero">
-    <img src="lab.png" alt="Laboratory">
-    <div class="overlay"></div>
-
-    <div class="hero-content">
-      <div class="hero-top">CLASSIFIED CORPORATE ARCHIVE</div>
-
-      <div class="hero-title">
-        JACK<br>
-        RAIKKONEN
-      </div>
-
-      <div class="line"></div>
-
-      <div class="quote">
-        “The problem was never creating life.<br>
-        The problem was giving it consciousness.”
-      </div>
-    </div>
-  </section>
-
-  <section>
-    <div class="section-title">ARCHIVE DIRECTORY</div>
-    <div class="big-title">DATABASE</div>
-
-    <div class="grid">
-      <div class="card">
-        <h3>SUBJECT FILES</h3>
-        <p>Archived personnel and experimental subject records.</p>
-      </div>
-
       <div class="card">
         <h3>PROJECT PROMETHEO</h3>
         <p>Research regarding artificial biological evolution.</p>
