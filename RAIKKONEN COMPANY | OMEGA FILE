@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+      </div>
+    </div>
+  </header>
+
+  <section class="hero">
+    <img src="lab.png" alt="Laboratory">
+    <div class="overlay"></div>
+
+    <div class="hero-content">
+      <div class="hero-top">CLASSIFIED CORPORATE ARCHIVE</div>
+
+      <div class="hero-title">
+        JACK<br>
+        RAIKKONEN
+      </div>
+
+      <div class="line"></div>
+
+      <div class="quote">
+        “The problem was never creating life.<br>
+        The problem was giving it consciousness.”
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-title">ARCHIVE DIRECTORY</div>
+    <div class="big-title">DATABASE</div>
+
+    <div class="grid">
+      <div class="card">
+        <h3>SUBJECT FILES</h3>
+        <p>Archived personnel and experimental subject records.</p>
+      </div>
+
+      <div class="card">
+        <h3>PROJECT PROMETHEO</h3>
+        <p>Research regarding artificial biological evolution.</p>
+      </div>
+
+      <div class="card">
+        <h3>ÎLE DE RAIKO</h3>
+        <p>Restricted island sectors and classified facilities.</p>
+      </div>
+
+      <div class="card">
+        <h3>OVERDRIVE</h3>
+        <p>Biological enhancement and self experimentation reports.</p>
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-title">SUBJECT FILE</div>
+    <div class="big-title">JACK ELIAS RAIKKONEN</div>
+
+    <div class="subject">
+      <div>
+        <p>
+          Founder and director of Raikkonen Company. Former biological researcher specializing in neurochemistry, genetic engineering and human enhancement.
+        </p>
+
+        <p>
+          Responsible for PROJECT PROMETHEO and the creation of the experimental organism designated as “ALARIC PROMETHEO”.
+        </p>
+
+        <p>
+          Subject engaged in prolonged self experimentation resulting in severe psychological deterioration and the development of the biological state known as OVERDRIVE.
+        </p>
+
+        <div class="status-boxes">
+          <div class="status">
+            <small>STATUS</small>
+            <strong>ACTIVE</strong>
+          </div>
+
+          <div class="status">
+            <small>LOCATION</small>
+            <strong>SECTOR P7</strong>
+          </div>
+        </div>
+      </div>
+
+      <div>
+        <img src="jack.png" alt="Jack Raikkonen">
+      </div>
+    </div>
+  </section>
+
+  <section>
+    <div class="section-title">INCIDENT REPORTS</div>
+    <div class="big-title">AUDIO LOGS</div>
+
+    <div class="logs">
+      <div class="log">
+        <p>LOG #042 — Subject Prometheo rejected containment procedures.</p>
+        <div class="dot"></div>
+      </div>
+
+      <div class="log">
+        <p>LOG #087 — OVERDRIVE activation detected in Sector P7.</p>
+        <div class="dot"></div>
+      </div>
+
+      <div class="log">
+        <p>LOG #102 — Personnel evacuation initiated.</p>
+        <div class="dot"></div>
+      </div>
+
+      <div class="log">
+        <p>LOG #114 — Subject Raikkonen suffered severe internal bleeding.</p>
+        <div class="dot"></div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    RAIKKONEN COMPANY — CONFIDENTIAL ARCHIVE
+  </footer>
+
+</body>
+</html>
